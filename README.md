@@ -56,6 +56,6 @@ O script realiza a leitura de uma base de dados (planilha) e preenche automatica
 
 ---
 
-## 👤 Autor
+##  Autor
 Gabriela Grisolia | Projeto educacional (Hashtag Treinamentos)
 * GitHub: [gabgrisolia](https://github.com/gabgrisolia)
